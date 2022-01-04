@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Viktoria.
 - 👀 I’m interested in PC Games. Assasins Creed❤️️, my dog, garden work, driving my electro Scooter.
-- 💻 I’m currently learning AngularJs and Python.
-- 🤝 I’m looking to collaborate on JavaScript, Front End.
+- 💻 I’m currently learning Python.
 - 📫 How to reach me v.chamborant@hotmail.com
 
 <!---
