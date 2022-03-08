@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Viktoria.
-- 👀 I’m interested in PC Games. Assasins Creed❤️️, my dog, garden work, driving my electro Scooter.
+- 👀 I’m interested in PC Games. Assasins Creed❤️️, my dog, garden work & driving my electro Scooter.
 - 💻 I’m currently learning Python.
 - 📫 How to reach me v.chamborant@hotmail.com
 
