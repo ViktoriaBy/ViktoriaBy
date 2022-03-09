@@ -22,20 +22,20 @@
 </div>
 
 </br>
-</br>
 
 </td><td valign="top" width="33%">
 
 <div align="center">  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />     
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /> 
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />      
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+  
+  
 </div>
 
-</br>
 </br>
         
 </td><td valign="top" width="33%">
