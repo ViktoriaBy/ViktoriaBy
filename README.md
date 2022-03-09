@@ -1,13 +1,10 @@
-<img src="https://github.com/ViktoriaBy/ViktoriaBy/blob/main/header.png?raw=true" align="left" height="400" width="" />  
+<img src="https://github.com/ViktoriaBy/ViktoriaBy/blob/main/header.png?raw=true" align="left" height="300" width="1000" />  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 </td><td valign="top" width="33%">
 
@@ -27,9 +24,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -46,7 +40,7 @@
 
 <br/>  
 
-
+<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
