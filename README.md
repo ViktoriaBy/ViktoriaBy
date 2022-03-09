@@ -7,18 +7,7 @@
 </a>  
 </div> 
 
-</br>
 
--💡 Currently I'm learning Python and Flask  
-  
-
--🎮 Assassin's Creed is my obsession  
-  
-
- 
-  
-
- 
 </br>
 </br>
 
