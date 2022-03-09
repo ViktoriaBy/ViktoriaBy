@@ -12,7 +12,7 @@
 </br>
 </br>
 
-## My Skill Set  
+## My Skils 
 
 <div align="center">  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
