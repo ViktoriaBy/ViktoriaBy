@@ -7,13 +7,15 @@
 </a>  
 </div> 
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+</br>
+
+-💡 Currently I'm learning Python and Flask  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+-🎮 Assassin's Creed is my obsession  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+ 
   
 
  
