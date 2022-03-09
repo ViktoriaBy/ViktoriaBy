@@ -1,5 +1,5 @@
 <a href="https://viktoriaby.github.io/portfolio/">
-        <img src="https://github.com/ViktoriaBy/ViktoriaBy/blob/main/header.gif?raw=true" align="left" height="300" width="1000" /> 
+        <img src="https://github.com/ViktoriaBy/ViktoriaBy/blob/main/header.gif?raw=true" align="left" height="300" width="900" /> 
       </a>
 <div align="center">
 <a href="https://linkedin.com/in/viktoria-bukatova-5b681a160" target="_blank">
@@ -9,8 +9,7 @@
  
 </br>
 </br>
-</br>
-</br>
+
 
 ## 🛠️My Skills 
 
